@@ -1,3 +1,4 @@
 git = herramienta de control de codigo fuente
 commit = para guardar cambios
 add = para agregar archivos
+log = muestra historia de commits
